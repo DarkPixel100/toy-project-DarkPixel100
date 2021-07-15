@@ -1,5 +1,6 @@
 {
   "recommendations": [
+    "abusaidm.html-snippets",
     "christian-kohler.path-intellisense",
     "EditorConfig.EditorConfig",
     "ms-vscode.atom-keybindings",
@@ -7,8 +8,7 @@
     "vscode-icons-team.vscode-icons",
     "wayou.vscode-todo-highlight",
     "Zignd.html-css-class-completion",
-    "thekalinga.bootstrap4-vscode",
-    "wallabyjs.quokka-vscode"
+    "ecmel.vscode-html-css",
   ],
   "unwantedRecommendations": [
     "dbaeumer.jshint",
